@@ -1,10 +1,10 @@
 # Multi-Protocol-Access-ADLS-Power-BI-Azure-Databricks
 
 
-📌 Objectif du projet
+##📌 Objectif du projet
 
 Ce projet démontre la configuration et l’utilisation de différents modes d’accès (multi-protocol access) à des données stockées dans Azure Data Lake Storage Gen2 (ADLS) vers Power BI et Azure Databricks.
-C'est unprojet d’intégration et de gestion d’accès sécurisés au sein de l’écosystème Microsoft Azure.
+C'est un projet d’intégration et de gestion d’accès sécurisés au sein de l’écosystème Microsoft Azure.
 
 
 🔧 Services et technologies utilisés
