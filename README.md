@@ -1,5 +1,8 @@
 # Multi-Protocol-Access-ADLS-Power-BI-Azure-Databricks
-« Pour des raisons de sécurité, certaines captures d'écran contiennent des noms de ressources Azure internes et ne sont disponibles que sur demande (référentiel privé). »
+« Pour des raisons de sécurité, mes captures d'écran et mes notebooks qui contiennent les noms de ressources Azure internes ne sont disponibles que sur un repo privé. »
+![Architecture du projet](docs/architecture.png)
+
+
 ### 🎯 Objectif du projet
 
 
