@@ -8,7 +8,7 @@ Ce projet démontre la configuration et l’utilisation de différents modes d�
 C'est un projet d’intégration et de gestion d’accès sécurisés au sein de l’écosystème Microsoft Azure.
 
 
-🔧 Services et technologies utilisés
+### 🔧 Services et technologies utilisés
 
 Azure Data Lake Storage Gen2 (ADLS) – Stockage hiérarchique
 
