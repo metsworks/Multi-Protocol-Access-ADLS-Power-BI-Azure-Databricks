@@ -12,7 +12,7 @@ C'est un projet d’intégration et de gestion d’accès sécurisés au sein de
 
 Azure Data Lake Storage Gen2 (ADLS) – Stockage hiérarchique
 
-Azure Blob Storage – Conteneur de fichiers CSV publics (ex : NYC Arrests dataset)
+Azure Blob Storage – Conteneur de fichiers CSV publics (ex : NYPD Arrests dataset)
 
 Power BI Desktop – Connexion via wasbs:// (Blob Storage REST endpoint)
 
@@ -30,7 +30,7 @@ Databricks Secret Scope – Stockage des clés pour l'accès aux ressources
 
 Hive Metastore  – Enregistrement automatique de la table au format Delta
 
-🔑 Méthodes d’authentification démontrées
+### 🔑 Méthodes d’authentification démontrées
  1. Account Key Authentication (clé d’accès directe du compte de stockage)
 
 Utilisation de la propriété fs.azure.account.key.<STORAGE_ACCOUNT>.dfs.core.windows.net
@@ -45,7 +45,7 @@ Attribution des rôles (Storage Blob Data Contributor, Storage Blob Data Owner)
 
 Gestion des permissions via ACL (Access Control Lists) sur les chemins ADLS
 
-✅ Résultats obtenus
+### ✅ Résultats obtenus
 
 Fichier CSV chargé depuis ADLS et injecté :
 
