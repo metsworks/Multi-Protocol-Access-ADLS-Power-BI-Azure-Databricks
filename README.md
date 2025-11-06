@@ -1,10 +1,11 @@
 # Multi-Protocol-Access-ADLS-Power-BI-Azure-Databricks
-« Pour des raisons de sécurité, mes captures d'écran et mes notebooks qui contiennent les noms de ressources Azure internes ne sont disponibles que sur un repo privé. »
+
 ![Architecture du projet](docs/architecture.png)
 
+« Pour des raisons de sécurité, mes captures d'écran et mes notebooks qui contiennent les noms de ressources Azure internes ne sont disponibles que sur un repo privé. Veuillez demamder l'accès au besion »
+For security reasons, my screenshots and notebooks containing internal Azure resource names are only available on a private repository. Please request access if needed.
 
-### 🎯 Objectif du projet
-
+### 🎯 Objectif
 
 Ce projet démontre la configuration et l’utilisation de différents modes d’accès (multi-protocol access) à des données stockées dans Azure Data Lake Storage Gen2 (ADLS) vers Power BI et Azure Databricks.
 C'est un projet d’intégration et de gestion d’accès sécurisés au sein de l’écosystème Microsoft Azure.
