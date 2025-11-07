@@ -2,8 +2,8 @@
 
 ![Architecture du projet](docs/architecture.png)
 
-« Pour des raisons de sécurité, les captures d'écran et les notebooks qui contiennent les noms de ressources Azure internes ne sont disponibles que sur un repo privé. Veuillez demamder l'accès au besion »
-For security reasons, the screenshots and notebooks containing internal Azure resource names are only available on a private repository. Please request access if needed.
+« Pour des raisons de sécurité, les captures d'écran et les notebooks qui contiennent les noms de ressources Azure internes ne sont disponibles que sur un repo privé. Veuillez demamder l'accès si besion »
+« For security reasons, the screenshots and notebooks containing internal Azure resource names are only available on a private repository. Please request access if needed.»
 
 ### 🎯 Objectif
 
