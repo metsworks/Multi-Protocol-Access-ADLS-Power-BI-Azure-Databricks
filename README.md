@@ -7,8 +7,15 @@
 
 ### 🎯 Objectif
 
-Ce projet démontre la configuration et l’utilisation de différents modes d’accès (multi-protocol access) à des données stockées dans Azure Data Lake Storage Gen2 (ADLS) vers Power BI et Azure Databricks.
-C'est un projet d’intégration et de gestion d’accès sécurisés au sein de l’écosystème Microsoft Azure.
+Cette implémentation présente une architecture d'accès aux données multiprotocole construite autour d'Azure Data Lake comme couche de stockage fondamentale et d'Azure Databricks comme environnement Data Lakehouse pour le traitement et le stockage des données.
+
+Le workflow montre :
+
+Comment les données stockées dans Azure Data Lake Storage Gen2 (ADLS) peuvent être accessibles via plusieurs protocoles (par exemple, wasb://, abfss://) et intégrées à la fois à Power BI et Azure Databricks.
+
+Comment s'authentifier via une clé de compte et un principal de service (Microsoft Entra ID) à l'aide d'Azure Key Vault pour une gestion sécurisée des secrets et RBAC / ACL pour les autorisations des utilisateurs et des services.
+
+Comment ingérer l'ensemble de données du stockage Blob dans Databricks et l'enregistrer en tant que table Delta dans le catalogue Hive Metastore intégré, fournissant des transactions ACID et des versions dans le cadre du framework Delta Lake.
 
 
 ### 🔧 Services et technologies utilisés
